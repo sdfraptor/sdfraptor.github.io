@@ -1,0 +1,35 @@
+body {
+    background-color:ivory;
+}
+div{
+    height: 200px;
+    width: 200px;
+    border-style: dotted;
+    border-width: 2px;
+    background-image: url(https://www.hillspet.co.uk/content/dam/cp-sites/hills/hills-pet/en_us/exported/cat-care/healthcare/images/seniorCatBrainAging.jpg);
+    background-color: orange;
+  
+
+}
+h1{
+    color: gray;
+    font-size: 35px;
+}
+p{
+    color: darkblue;
+    background-color: lavender;
+    font-size: 16px;
+}
+
+
+ol {
+    list-style-type: lower-alpha;
+    color:gray;
+    
+}
+
+ul{
+    list-style-type: square;
+    color:gray
+
+}
