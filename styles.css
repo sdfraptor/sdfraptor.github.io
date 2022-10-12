@@ -1,7 +1,7 @@
 body {
     background-color:ivory;
 }
-div{
+.divi{
     height: 200px;
     width: 200px;
     border-style: dotted;
@@ -32,4 +32,17 @@ ul{
     list-style-type: square;
     color:gray
 
+}
+.divinity{
+    background-color: black;
+    border-style: dotted;
+    border-width: 3px;
+   border-color: yellow;
+}
+.link{
+    background-color: aqua;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100px;
+    height: 50px;
 }
