@@ -46,3 +46,20 @@ ul{
     width: 100px;
     height: 50px;
 }
+aside{
+    float:right;
+    background-color:coral
+}
+footer{
+    background-color:cadetblue
+    
+}
+header{
+    background-color:aquamarine
+}
+nav{
+    background-color:blueviolet
+}
+section{
+    background-color:thistle
+}
